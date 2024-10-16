@@ -1,0 +1,43 @@
+{
+    "Description_1": "At Jimmu Global Trusted Resources, we provide comprehensive guidance tailored to your unique situation—navigating your path with expertise and care ",
+    "Description_2": "every step of the way.",
+
+
+        "MainPoints": [
+            {
+                "Title": "Comprehensive Support",
+                "Description": "We address the challenges of dividing significant assets, offering clear solutions to protect your financial interests during divorce."
+            },
+            {
+              "Title": "Emotional Well-being",
+              "Description": "We tackle the toughest legal and financial challenges, delivering solutions that minimize stress and safeguard your future."
+          },
+            
+            {
+                "Title": "Legal Guidance",
+                "Description": "We provide customized strategies to navigate the complexities of divorce, ensuring your wealth and reputation remain secure."
+            }
+           
+        ],
+        "Services":
+ 
+    [
+        {
+          "icon": "✏️",
+          "title": "Investigations & Surveillance",
+          "description": "An obligation in which a third party agrees to repay a debt."
+        },
+        {
+          "icon": "📷",
+          "title": "Technical security & Counter measures",
+          "description": "Money and tangible provided to you by the creditor for use."
+        },
+        {
+          "icon": "📊",
+          "title": "Create deposit",
+          "description": "Return the money after a certain period of time with interest."
+        }
+      ]
+      
+}
+    
