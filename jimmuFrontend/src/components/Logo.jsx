@@ -6,7 +6,7 @@ const Logo = () => {
     <div className="logo-container">
       
       <img 
-        src="src/assets/jimmuB.png" // Replace with the actual path to your logo image
+        src="../assets/jimmuB.png" // Replace with the actual path to your logo image
         alt="Logo"
         className="logo-image"
       />
